@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarriorOfLeporia/Entities/BulletEntity.swift"
+            timestampString = "543359944.982583"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(shootRight:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WarriorOfLeporia.BulletEntity.init(shootRight: Swift.Bool) -&gt; WarriorOfLeporia.BulletEntity"
+                  moduleName = "WarriorOfLeporia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Untitled/WarriorOfLeporia/WarriorOfLeporia/Entities/BulletEntity.swift"
+                  timestampString = "543187813.0876679"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "469">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WarriorOfLeporia.BulletEntity.init(shootRight: Swift.Bool) -&gt; WarriorOfLeporia.BulletEntity"
+                  moduleName = "WarriorOfLeporia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Untitled/WarriorOfLeporia/WarriorOfLeporia/Entities/BulletEntity.swift"
+                  timestampString = "543187813.090512"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "2376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
